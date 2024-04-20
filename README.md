@@ -23,12 +23,12 @@ Running the application locally:
 ## Deployment
 
 This section will depend on the deployment method you choose. Personally, i use [vercel.com](https://vercel.com) because it linked with github and easier to deploy projects.
-
-    If you use vercel, here is the steps: 
-    1) Upload Sushi project to github
-    2) Make sure you have already vercel account. Then, at vercel projects, click "add new". 
-    4) You will be redirected to the GitHub folders where you will select the project you want to deploy, in this case "Sushi Project" 
-    5) Deploy the project, and wait until it done. 
+If you use vercel, here is the steps: 
+1) Upload Sushi project to github
+2) Make sure you have already vercel account. Then, at vercel projects, click "add new". 
+4) You will be redirected to the GitHub folders where you will select the project you want to deploy, in this case "Sushi Project" 
+5) Deploy the project, and wait until it done.
+ 
 
 ## Usage
 
