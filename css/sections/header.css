@@ -1,0 +1,48 @@
+@import url("/css/style.css");
+.header__nav {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+}
+
+.header__menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 53.15%;
+}
+
+.header__menu li {
+    list-style-type: none;
+    margin-left: 80px;
+    font-family: var(--playfair-display);
+
+}
+
+.header__logo {
+    flex: 5;
+    display: flex;
+    position: relative;
+    padding: 20px;
+    background-color: #b1454a;
+}
+
+.header__logo-overlay {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.header__logo h4 {
+    color: #fff;
+    font-family: var(--playfair-display);
+    letter-spacing: 1px;
+    z-index: 2;
+    font-size: 28px;
+    margin-left: 20px;
+}
+
+.header__menu-mobile {
+    overflow: hidden;
+}
